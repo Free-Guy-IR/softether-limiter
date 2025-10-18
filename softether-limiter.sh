@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 set -euo pipefail
 
 red(){ echo -e "\e[31m$*\e[0m"; }
